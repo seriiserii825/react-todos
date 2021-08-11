@@ -3,7 +3,7 @@ import React, { createContext, useEffect, useState } from 'react';
 export const TodoContext = createContext();
 
 export const Context = (props) => {
-  const [todos, setTodos] = useState([{ id: 1, title: 'Todo 1', completed: true }]);
+  const [todos, setTodos] = useState([]);
 
   const addTodo = (todo) => {
     setTodos([todo, ...todos]);
