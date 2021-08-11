@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/seriiserii825/react-todos/static/css/main.114fcba3.chunk.css",
-    "main.js": "/seriiserii825/react-todos/static/js/main.ea899a2c.chunk.js",
-    "main.js.map": "/seriiserii825/react-todos/static/js/main.ea899a2c.chunk.js.map",
-    "runtime-main.js": "/seriiserii825/react-todos/static/js/runtime-main.f6a989a6.js",
-    "runtime-main.js.map": "/seriiserii825/react-todos/static/js/runtime-main.f6a989a6.js.map",
+    "main.js": "/seriiserii825/react-todos/static/js/main.bf275ead.chunk.js",
+    "main.js.map": "/seriiserii825/react-todos/static/js/main.bf275ead.chunk.js.map",
+    "runtime-main.js": "/seriiserii825/react-todos/static/js/runtime-main.4f6a7ec3.js",
+    "runtime-main.js.map": "/seriiserii825/react-todos/static/js/runtime-main.4f6a7ec3.js.map",
     "static/js/2.8a74dcff.chunk.js": "/seriiserii825/react-todos/static/js/2.8a74dcff.chunk.js",
     "static/js/2.8a74dcff.chunk.js.map": "/seriiserii825/react-todos/static/js/2.8a74dcff.chunk.js.map",
-    "static/js/3.fb806cbe.chunk.js": "/seriiserii825/react-todos/static/js/3.fb806cbe.chunk.js",
-    "static/js/3.fb806cbe.chunk.js.map": "/seriiserii825/react-todos/static/js/3.fb806cbe.chunk.js.map",
     "index.html": "/seriiserii825/react-todos/index.html",
     "static/css/main.114fcba3.chunk.css.map": "/seriiserii825/react-todos/static/css/main.114fcba3.chunk.css.map",
     "static/js/2.8a74dcff.chunk.js.LICENSE.txt": "/seriiserii825/react-todos/static/js/2.8a74dcff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6a989a6.js",
+    "static/js/runtime-main.4f6a7ec3.js",
     "static/js/2.8a74dcff.chunk.js",
     "static/css/main.114fcba3.chunk.css",
-    "static/js/main.ea899a2c.chunk.js"
+    "static/js/main.bf275ead.chunk.js"
   ]
 }
