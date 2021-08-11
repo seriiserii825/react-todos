@@ -47,6 +47,8 @@ body {
 .add-todo {
     display: flex;
     align-items: center;
+    flex-direction: column;
+    justify-content: center;
     margin: 0 auto 3rem;
     width: 60%;
 }
@@ -60,7 +62,6 @@ body {
 }
 
 .add-todo label {
-    width: 20%;
     font-size: 1.4rem;
     color: black;
 }
