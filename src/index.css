@@ -89,7 +89,9 @@ body {
 .collection-item.completed h4 {
     text-decoration: line-through;
 }
-
+.todos-list {
+    width: 80%;
+}
 .collection-item h4 {
     width: 60%;
     font-size: 1.4rem;
