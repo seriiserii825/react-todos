@@ -17,7 +17,7 @@ const AddTodo = () => {
 
   return (
     <div className="add-todo">
-      <label htmlFor="add-todo">Add todo</label>
+      <label htmlFor="add-todo">Add todo(Hit Enter)</label>
       <input type="text" value={inputTodo}
              onChange={(e) => setInputTodo(e.target.value)} id="add-todo"
              onKeyDown={(e) => newTodo(e)}

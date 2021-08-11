@@ -50,11 +50,24 @@ body {
     margin: 0 auto 3rem;
     width: 60%;
 }
+@media screen and (max-width: 992px) {
+     .add-todo {
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         width: 100%;
+     }
+}
 
 .add-todo label {
     width: 20%;
     font-size: 1.4rem;
     color: black;
+}
+@media screen and (max-width: 992px) {
+.add-todo label {
+     width: 100%;
+}
 }
 
 .add-todo input {
@@ -71,6 +84,11 @@ body {
     margin: 0 auto;
     width: 60%;
     border: none;
+}
+@media screen and (max-width: 576px) {
+     .collection {
+         width: 90%;
+     }
 }
 
 .collection .collection-item {
@@ -91,6 +109,12 @@ body {
 }
 .todos-list {
     width: 80%;
+}
+
+@media screen and (max-width: 992px) {
+.todos-list {
+    width: 100%;
+}
 }
 .collection-item h4 {
     width: 60%;
